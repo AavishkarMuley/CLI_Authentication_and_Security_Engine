@@ -119,7 +119,7 @@ username|salt|hashed_password
 
 ### Sample Database Entries:
 ```text
-aavishkar|7x#A2|18446744073709551614
+peter|7x#A2|18446744073709551614
 henry|9z$K1|12938491823901928312
 alice|mK9!0|98234819238471928341
 ```
@@ -156,7 +156,7 @@ AuthEngine.exe
 ====================================================
                 Auth System
 ====================================================
-Enter your Username: aavishkar
+Enter your Username: peter
 Enter your Password: ********
 
 Account not found.
@@ -174,7 +174,7 @@ Password Strength Checklist:
 Account created successfully
 
 ====================================================
-                Welcome aavishkar!
+                Welcome peter!
 ====================================================
 ```
 
@@ -183,7 +183,7 @@ Account created successfully
 ====================================================
                 Auth System
 ====================================================
-Enter your Username: aavishkar
+Enter your Username: peter
 Enter your Password: ****
 
 Invalid login credentials.
@@ -197,10 +197,10 @@ Correct OTP entered!
 Loading your Account....
 
 ====================================================
-                Welcome aavishkar!
+                Welcome peter!
 ====================================================
 
-What do you want to do, aavishkar?
+What do you want to do, peter?
 1 - Change password.
 2 - Delete account.
 3 - Logout.
