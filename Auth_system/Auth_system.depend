@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1793456219 source:c:\users\aavishkar\onedrive\desktop\python coding\c++_practice\auth_system\auth_system\main.cpp
+	<iostream>
+	<unordered_map>
+	<fstream>
+	<conio.h>
+	<windows.h>
+	<random>
+	<ctime>
+	<thread>
+	<chrono>
+
